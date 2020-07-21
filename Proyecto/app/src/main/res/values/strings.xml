@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ACNH Creatures Database</string>
+    <string name="fish">Fish \nName \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t Location \t\t\t Size \t\t\t Price</string>
+    <string name="bugs">Bugs \nName \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t Location \t\t\t\t\t\t\t\t\t\t\t Price</string>
+    <string name="search">Search</string>
+    <string name="captured">Already captured</string>
+    <string name="find">FIND</string>
+
+</resources>
